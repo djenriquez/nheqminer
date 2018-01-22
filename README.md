@@ -47,7 +47,7 @@ docker run -d -t \
 --restart always \
 --runtime=nvidia \
 djenriquez/nheqminer \
--l zcl.suprnova.cc:4042 -u t1WsdsfAzbxUXPgVhT63nm62q97divGgp1s -p x
+-l equihash.eu.nicehash.com:3357 -u 33DyXVuy3R5jfLZRRpEQcXXAJ1Xz5rkGxE.worker1 -p x
 ```
 
 # Dependencies
